@@ -1,0 +1,60 @@
+{
+  "name": "Priyal Coding",
+  "analyses": [
+    {
+      "tone": "casual and relatable",
+      "energy_level": "high",
+      "delivery_style": {
+        "pacing": "moderate with occasional bursts of speed",
+        "sentence_variation": "mix of short and long sentences",
+        "story_usage": "frequent, personal anecdotes",
+        "analogy_usage": "occasional, often humorous",
+        "directive_strength": "moderate, encouraging action"
+      },
+      "linguistic_fingerprint": {
+        "average_sentence_length": "12-15 words",
+        "common_sentence_types": [
+          "declarative",
+          "interrogative"
+        ],
+        "rhetorical_devices": [
+          "metaphor",
+          "hyperbole"
+        ],
+        "transition_patterns": [
+          "firstly, next, finally"
+        ]
+      },
+      "hook_style": {
+        "dominant_types": [
+          "question-based",
+          "anecdotal"
+        ],
+        "examples": [
+          "Have you ever wondered...?",
+          "Let me tell you about a time when..."
+        ]
+      },
+      "signature_phrases": [
+        "You know what I mean?",
+        "Let's dive in!"
+      ],
+      "forbidden_phrases": [
+        "I think",
+        "maybe"
+      ],
+      "persona": "the approachable expert",
+      "content_archetype": "the guide",
+      "strength_indicators": [
+        "engagement",
+        "relatability",
+        "enthusiasm"
+      ],
+      "emotional_beats": [
+        "excitement",
+        "curiosity",
+        "inspiration"
+      ]
+    }
+  ]
+}

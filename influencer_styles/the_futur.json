@@ -1,0 +1,63 @@
+{
+  "name": "The Futur",
+  "analyses": [
+    {
+      "tone": "thoughtful",
+      "energy_level": "moderate",
+      "delivery_style": {
+        "pacing": "measured",
+        "sentence_variation": "medium complexity with a mix of short and long sentences",
+        "story_usage": "frequent, with personal anecdotes",
+        "analogy_usage": "occasional, to clarify concepts",
+        "directive_strength": "moderate, encourages reflection and action"
+      },
+      "linguistic_fingerprint": {
+        "average_sentence_length": "14",
+        "common_sentence_types": [
+          "interrogative",
+          "declarative"
+        ],
+        "rhetorical_devices": [
+          "metaphor",
+          "anecdote"
+        ],
+        "transition_patterns": [
+          "contrastive",
+          "explanatory"
+        ]
+      },
+      "hook_style": {
+        "dominant_types": [
+          "thought-provoking questions",
+          "anecdotal lead-ins"
+        ],
+        "examples": [
+          "What separates good designers from great designers?",
+          "Does anyone have an idea on how to answer this?"
+        ]
+      },
+      "signature_phrases": [
+        "step up your game",
+        "pushing yourself to failure",
+        "focus on the fundamentals"
+      ],
+      "forbidden_phrases": [
+        "you can't",
+        "always",
+        "never"
+      ],
+      "persona": "mentor",
+      "content_archetype": "educational",
+      "strength_indicators": [
+        "critical thinking",
+        "encouragement of mastery",
+        "emphasis on clarity"
+      ],
+      "emotional_beats": [
+        "curiosity",
+        "insight",
+        "encouragement"
+      ]
+    }
+  ]
+}

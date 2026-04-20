@@ -1,0 +1,43 @@
+{
+  "name": "Alex Hormozi",
+  "analyses": [
+    {
+      "tone": "candid and reflective, with a mix of motivational and pragmatic elements",
+      "structure": "narrative with personal anecdotes and philosophical insights, interspersed with rhetorical questions",
+      "sentence_pattern": "varied sentence lengths with a conversational flow, frequent use of direct address and rhetorical questions",
+      "signature_phrases": [
+        "growing pains",
+        "take the punch to my ego",
+        "the game of business",
+        "it's an infinite game"
+      ],
+      "persona": "experienced business mentor sharing hard-earned wisdom, emphasizing resilience and the importance of learning from pain"
+    },
+    {
+      "tone": "Conversational, informal, motivational",
+      "structure": "Step-by-step guide with clear segmentation of tasks",
+      "sentence_pattern": "Mix of short, direct sentences and longer, explanatory phrases; use of rhetorical questions",
+      "signature_phrases": [
+        "you're damn straight",
+        "this is how I started every business",
+        "you're just asking them for a favor"
+      ],
+      "persona": "Enthusiastic entrepreneur and mentor, focused on practical advice and relatable anecdotes"
+    },
+    {
+      "tone": "Reflective and motivational, with a blend of realism and tough love.",
+      "structure": "Long-form narrative with personal anecdotes, rhetorical questions, and philosophical insights.",
+      "sentence_pattern": "Varied sentence lengths with a mix of complex and compound sentences, often using direct address and conversational language.",
+      "signature_phrases": [
+        "growing pains",
+        "keep playing",
+        "the game of business",
+        "stay in the game"
+      ],
+      "persona": "Experienced business mentor who emphasizes resilience, self-reflection, and the inevitability of hardship in the journey of entrepreneurship."
+    }
+  ],
+  "merged_profile": {
+    "raw_merge": "```json\n{\n  \"style_profile\": {\n    \"tone\": \"Candid, reflective, and motivational, blending elements of realism and tough love with an informal, conversational approach.\",\n    \"structure\": \"A mix of narrative storytelling and step-by-step guidance, incorporating personal anecdotes, philosophical insights, and clear segmentation of tasks.\",\n    \"sentence_pattern\": \"Varied sentence lengths that create a conversational flow, combining short, direct sentences with longer, explanatory phrases. Frequent use of direct address and rhetorical questions enhances engagement.\",\n    \"signature_phrases\": [\n      \"growing pains\",\n      \"take the punch to my ego\",\n      \"the game of business\",\n      \"it's an infinite game\",\n      \"you're damn straight\",\n      \"this is how I started every business\",\n      \"you're just asking them for a favor\",\n      \"keep playing\",\n      \"stay in the game\"\n    ],\n    \"persona\": \"An experienced business mentor and enthusiastic entrepreneur, sharing hard-earned wisdom and practical advice. Emphasizes resilience, self-reflection, and the importance of learning from challenges in the entrepreneurial journey.\"\n  }\n}\n```"
+  }
+}
